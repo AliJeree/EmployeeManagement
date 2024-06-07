@@ -39,4 +39,3 @@ public class EmailRequest {
         this.jobTitles = jobTitles;
     }
 }
-//sendgrid.api.key1=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
